@@ -1,5 +1,5 @@
 === TypePad AntiSpam for WordPress ===
-Contributors: Brad Choate
+Contributors: Six Apart
 Tags: comments, spam, typepad
 Requires at least: 2.3
 Tested up to: 2.5
